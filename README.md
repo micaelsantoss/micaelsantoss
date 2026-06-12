@@ -4,15 +4,15 @@
 
 ### Desenvolvedor Full Stack | Java • Spring Boot • TypeScript • React • Next.js
 
-<a href="https://micaelsantos.vercel.app">
+<a href="https://micaelsantos.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/micael-santos-da-silva-aa023621a/">
+<a href="https://www.linkedin.com/in/micael-santos-da-silva-aa023621a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/micaelsantoss">
+<a href="https://github.com/micaelsantoss" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
